@@ -1,0 +1,13 @@
+{
+"companyName": "OECU",
+"productName": "将棋ローグライク",
+"dataUrl": "SyogiRoguelike.data.unityweb",
+"wasmCodeUrl": "SyogiRoguelike.wasm.code.unityweb",
+"wasmFrameworkUrl": "SyogiRoguelike.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
