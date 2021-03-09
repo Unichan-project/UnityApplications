@@ -1,0 +1,13 @@
+{
+"companyName": "OECU",
+"productName": "将棋ローグライク",
+"dataUrl": "将棋ローグライクWeb.data.unityweb",
+"wasmCodeUrl": "将棋ローグライクWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "将棋ローグライクWeb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
